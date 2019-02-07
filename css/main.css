@@ -22,8 +22,20 @@ html {
   width: 100%;
 }
 
+body {
+  margin: 0;
+}
+
+article {
+  margin: 0;
+}
+
+main {
+  margin: 0;
+}
+
 .water {
-  background-color: #e97065
+  background-color: #e97065;
 }
 
 .star {
@@ -43,7 +55,7 @@ html {
 }
 
 .p {
-  font-family: "Comfortaa";
+  font-family: Comfortaa;
 }
 
 p {
